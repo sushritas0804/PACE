@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets (never upload these)
+.env
+*.key
+*.pem
+
+# Big model and data files
+*.pkl
+*.h5
+*.pt
+*.csv
+
+# Computer junk
+.DS_Store
+Thumbs.db
